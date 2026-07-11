@@ -1,3 +1,7 @@
+
+// لسه بحل في المسألة دي  
+
+
 #include <iostream> 
 
 using namespace std ;
